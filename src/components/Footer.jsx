@@ -16,7 +16,7 @@ const Footer = () => (
             </div>
 
             <div className="footnote">
-                Copyright @perxels
+                Copyright @ 2021 Perxels
             </div>
         </div>
     </StyledFooter>

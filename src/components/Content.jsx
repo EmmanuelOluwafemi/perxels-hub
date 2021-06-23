@@ -27,7 +27,7 @@ const Content = () => (
                 To build a close group of engaging designers who are passionate about learning and growing together; 
                 where they share relevant ideas, exchange resources, engage in design sprint, organise AMA (Ask Me Anything) 
                 sessions, portfolio review, design meetups etc.
-                In the community, you would be also exposed to job and internship opportunities, accountability and 
+                In the community, you would also be exposed to job and internship opportunities, accountability and 
                 study partners who would challenge you to become a much better designer.
             </p>
         </div>
