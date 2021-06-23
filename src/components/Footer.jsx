@@ -12,7 +12,7 @@ const Footer = () => (
                     can decide to take you out of the platform at our own discretion
                 </p>
 
-                <a href="perxels.com">I AGREE</a>
+                <a href="https://chat.whatsapp.com/BfJEEYIjAQ42pmcPusnMBK">I AGREE</a>
             </div>
 
             <div className="footnote">
