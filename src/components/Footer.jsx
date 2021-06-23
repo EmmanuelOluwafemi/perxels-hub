@@ -5,7 +5,7 @@ import Styled from 'styled-components';
 const Footer = () => (
     <StyledFooter>
         <div className="container">
-            <div className="footerContent">
+            <div data-aos="fade-up" data-aos-easing="linear"  data-aos-delay="300" className="footerContent">
                 <p>
                     Accepting this means that you agree to the rules of engagement as 
                     described above and not following the rules of engagement means we 
@@ -61,11 +61,10 @@ const StyledFooter = Styled.footer`
     }
 
     .footnote {
-        max-width: 1050px;
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: .85rem;
+        font-size: 1.25rem;
         font-weight: 400;
         color: #34296B;
         text-align: center;

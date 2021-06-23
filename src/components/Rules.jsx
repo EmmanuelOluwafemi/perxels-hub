@@ -11,7 +11,7 @@ const Rules = () => {
         <StyledRule>
             <img src={tri} alt="tri pattern" />
             <div className="container">
-                <h4>Rules of engagement</h4>
+                <h4 data-aos="fade-up" data-aos-easing="linear"  data-aos-delay="200">Rules of engagement</h4>
                 <List text="Share only relevant information relating to product design and building products on the platform." />
                 <List text="Engage in group discussions actively, don’t be a ghost community member" />
                 <List text="Acknowledge important messages sent to the community. For example; AMA sessions, social media discussions, campaigns, job opportunity post etc" />
@@ -27,8 +27,8 @@ const Rules = () => {
 export default Rules;
 
 const StyledRule = Styled.div`
-    overflow-x: hidden;
     position: relative;
+    margin-top: 7rem;
 
     img {
         position: absolute;

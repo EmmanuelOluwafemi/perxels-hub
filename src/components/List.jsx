@@ -4,7 +4,7 @@ import Styled from 'styled-components';
 
 const List = ({ text }) => {
     return (
-        <StyledList>
+        <StyledList data-aos="fade-up" data-aos-easing="linear"  data-aos-delay="300">
             <div className="circle"></div>
             <div className="text">{text}</div>
         </StyledList>
